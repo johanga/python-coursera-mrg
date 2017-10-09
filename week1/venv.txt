@@ -1,0 +1,5 @@
+user@user-quest:~/Projects/python-coursera/week1$ python3 -m venv env # create virtual env
+user@user-quest:~/Projects/python-coursera/week1$ source env/bin/activate # activate venv
+(env) user@user-quest:~/Projects/python-coursera/week1$ deactivate # deactivate venv
+(env) user@user-quest:~/Projects/python-coursera/week1$ pip install requests # install package into venv
+(env) user@user-quest:~/Projects/python-coursera/week1$ python # run python from venv
