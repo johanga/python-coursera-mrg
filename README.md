@@ -46,7 +46,7 @@ https://www.coursera.org/learn/programming-in-python/home/welcome
 - [X] **Practice Quiz:** Работа с сетью, сокеты.
 - [X] **Асинхронное программирование.** Select, генераторы, asyncio.
 - [X] **Quiz:** Тест по неделе.
-- [ ] **Programming Assignment:** Клиент для отправки метрик.
+- [X] **Programming Assignment:** Клиент для отправки метрик.
 
 ### Week 6
-- [ ] **Programming Assignment:** Финальный проект. Сервер для приема метрик.
+- [X] **Programming Assignment:** Финальный проект. Сервер для приема метрик.
